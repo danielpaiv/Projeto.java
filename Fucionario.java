@@ -1,4 +1,5 @@
 package ProjetoJava.Daniel;
 
-public class PrimeiraClass {
+public class Fucionario {
+
 }
