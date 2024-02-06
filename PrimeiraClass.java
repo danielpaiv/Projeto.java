@@ -4,7 +4,7 @@ public class PrimeiraClass {
     public static void main(String aegs[]) {
         //System.out.print("Olá Daniel");
         //Esse conjunto de codigo faz a leitura das class //
-        
+
         Cliente cliente = new Cliente();
         Produtos produto = new Produtos();
         Fucionario fucionario = new Fucionario();
