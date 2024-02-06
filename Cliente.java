@@ -50,6 +50,6 @@ package ProjetoJava.Daniel;
             return valor ;
         }
         public void cadastrarValor() {
-            this.valor  = " 20";
+            this.valor  = " 2000";
         }
     }
