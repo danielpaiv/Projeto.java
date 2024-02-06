@@ -32,12 +32,11 @@ public class Fucionario {
         this.endereco = endereco;
     }
 
-
-    public void  cadastrarCodigo(){
-        this . codigo= (123);
-    }
     public void cadastrarNome(){
         this.nome = "Thiago";
+    }
+    public void  cadastrarCodigo(){
+        this . codigo= (14265);
     }
     public void cadastrarEndereco(){
         this.endereco = "Rua Tupi";
