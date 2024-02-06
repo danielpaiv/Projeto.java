@@ -16,6 +16,6 @@ package ProjetoJava.Daniel;
         }
 
         public void cadastrarTotal(){
-            this . Total= (4000);
+            this . Total= (5000);
         }
     }
