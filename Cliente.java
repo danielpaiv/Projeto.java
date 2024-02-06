@@ -5,12 +5,14 @@ package ProjetoJava.Daniel;
         public static void main(String args[]) {
             System.out.print("Olá Boa noite");
         }
-
+        //essas são as variaveis con detalhes da venda en texxto nenusculo
         private int codigo;
         private String nome;
         private String endereco;
         private String valor;
 
+
+        //Aqui fica oe métodos que recolhe os textosd as variaveis são dois metodos pra cada get set
         public int getCodigo() {
             return codigo ;
         }
