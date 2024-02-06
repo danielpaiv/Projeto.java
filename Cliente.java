@@ -56,6 +56,6 @@ package ProjetoJava.Daniel;
         }
 
         public void cadastrarValor() {
-            this.valor  = "2000";
+            this.valor  = "2500";
         }
     }
