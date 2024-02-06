@@ -9,6 +9,7 @@ package ProjetoJava.Daniel;
         private String codigo;
         private String nome;
         private String endereco;
+        private String valor;
 
         public String getCodigo() {
             return codigo ;
@@ -16,6 +17,9 @@ package ProjetoJava.Daniel;
 
         public void setCodigo(String codigo) {
             this.codigo = codigo;
+        }
+        public void setValor(String valor) {
+            this.valor = valor;
         }
 
         public String getNome() {
@@ -41,5 +45,11 @@ package ProjetoJava.Daniel;
         }
         public void cadastrarNome() {
             this.nome = " Daniel";
+        }
+        public String getValor() {
+            return valor ;
+        }
+        public void cadastrarValor() {
+            this.valor  = " 20";
         }
     }

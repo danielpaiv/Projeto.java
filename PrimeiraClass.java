@@ -8,9 +8,11 @@ public class PrimeiraClass {
         cliente.cadastrarCodigo();
         cliente.cadastrarEndereco();
         cliente.cadastrarNome();
+        cliente.cadastrarValor();
         System.out.println(cliente.getCodigo());
         System.out.println(cliente.getEndereco());
         System.out.println(cliente.getNome());
+        System.out.println(cliente.getValor());
 
     }
 }
