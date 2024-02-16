@@ -15,9 +15,9 @@ public class Venda {
         Total = total;
     }
 
-     
-     //Aqui fica os valores dos  i
-        ic vi cada strarTota
-     
-        }
+    // Aqui fica os valores dos i
+    public void cadastrarTotal() {
+        this.total = "6000";
     }
+
+}
