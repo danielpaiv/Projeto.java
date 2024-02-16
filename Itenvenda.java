@@ -14,8 +14,9 @@ package ProjetoJava.Daniel;
         public void setQuantidade(int quantidade) {
             this.quantidade = quantidade;
         }
-
-        public void cadastrarQuantidade(){
-            this . quantidade = (2);
-        }
+        
+             //Aqui fica os valores dos informações 
+            public void cadastrarQuantidade(){
+                this . quantidade = (2);
+            }
     }

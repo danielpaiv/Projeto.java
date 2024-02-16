@@ -41,23 +41,21 @@ package ProjetoJava.Daniel;
             this.endereco = endereco;
         }
 
+            //Aqui fica os valores dos informações 
+            public void cadastrarCodigo() {
+                this.codigo = (12354);
+            }
 
+            public void cadastrarNome() {
+                this.nome = "Daniel";
+            }
 
+            public void cadastrarEndereco() {
+                this.endereco =  "Rua teste";
 
-        public void cadastrarCodigo() {
-            this.codigo = (12354);
-        }
+            }
 
-        public void cadastrarNome() {
-            this.nome = "Daniel";
-        }
-
-        public void cadastrarEndereco() {
-            this.endereco =  "Rua teste";
-
-        }
-
-        public void cadastrarValor() {
-            this.valor  = "2500";
-        }
+            public void cadastrarValor() {
+                this.valor  = "2500";
+            }
     }

@@ -1,21 +1,23 @@
 package ProjetoJava.Daniel;
 
-    public class Venda {
-        public static void main(String args[]) {
-            System.out.print("Olá Bom Dia moço");
-        }
+public class Venda {
+    public static void main(String args[]) {
+        System.out.print("Olá Bom Dia moço");
+    }
 
-        private int Total;
+    private int Total;
 
-        public int getTotal() {
-            return Total;
-        }
+    public int getTotal() {
+        return Total;
+    }
 
-        public void setTotal(int total) {
-            Total = total;
-        }
+    public void setTotal(int total) {
+        Total = total;
+    }
 
-        public void cadastrarTotal(){
-            this . Total= (5000);
+     
+     //Aqui fica os valores dos  i
+        ic vi cada strarTota
+     
         }
     }
