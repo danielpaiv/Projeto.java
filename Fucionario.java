@@ -1,9 +1,7 @@
 package ProjetoJava.Daniel;
 
 public class Fucionario {
-    public static void main(String args[]) {
-        System.out.print("Olá Boa tarde");
-    }
+
     private int codigo;
     private String nome;
     private String endereco;
@@ -31,15 +29,17 @@ public class Fucionario {
     public void setEndereco(String endereco) {
         this.endereco = endereco;
     }
-    
-         //Aqui fica os valores dos informações 
-        public void cadastrarNome(){
-            this.nome = "Thiago";
-        }
-        public void  cadastrarCodigo(){
-            this . codigo= (14265);
-        }
-        public void cadastrarEndereco(){
-            this.endereco = "Rua Tupi";
-        }
+
+    // Aqui fica os valores dos informações
+    public void cadastrarNome() {
+        this.nome = "Thiago";
+    }
+
+    public void cadastrarCodigo() {
+        this.codigo = (14265);
+    }
+
+    public void cadastrarEndereco() {
+        this.endereco = "Rua Tupi";
+    }
 }
