@@ -57,6 +57,6 @@ public class Cliente {
     }
 
     public void cadastrarValor() {
-        this.valor = "2500";
+        this.valor = "3500";
     }
 }

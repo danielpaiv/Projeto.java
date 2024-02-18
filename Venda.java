@@ -15,7 +15,7 @@ public class Venda {
 
     // Aqui fica os valores dos i
     public void cadastrarTotal() {
-        this.Total = 5000;
+        this.Total = 7000;
     }
 
 }
