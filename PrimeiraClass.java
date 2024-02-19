@@ -26,16 +26,16 @@ public class PrimeiraClass {
         venda.cadastrarTotal();
 
         // Esse código e´responsável para imprimir os valores no conssole //
-        System.out.println(cliente.getCodigo());
-        System.out.println(cliente.getNome());
-        System.out.println(cliente.getEndereco());
-        System.out.println(produto.getProduto());
-        System.out.println(cliente.getValor());
-        System.out.println(fucionario.getNome());
-        System.out.println(fucionario.getCodigo());
-        System.out.println(fucionario.getEndereco());
-        System.out.println(itenvenda.getQuantidade());
-        System.out.println(venda.getTotal());
+        System.out.println("Codigo:" + cliente.getCodigo());
+        System.out.println("Cliente:" + cliente.getNome());
+        System.out.println("Edereço:" + cliente.getEndereco());
+        System.out.println("Produto:" + produto.getProduto());
+        System.out.println("Valor:" + cliente.getValor());
+        System.out.println("Fucionario:" + fucionario.getNome());
+        System.out.println("Codigo:" + fucionario.getCodigo());
+        System.out.println("Edereço:" + fucionario.getEndereco());
+        System.out.println("Quatidade:" + itenvenda.getQuantidade());
+        System.out.println("Total:" + venda.getTotal());
 
     }
 }
