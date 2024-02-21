@@ -1,5 +1,6 @@
 package ProjetoJava.Daniel;
 
+
 public class Venda {
     
 
@@ -16,6 +17,7 @@ public class Venda {
     // Aqui fica os valores dos i
     public void cadastrarTotal() {
         this.Total = 7000;
+
     }
 
 }

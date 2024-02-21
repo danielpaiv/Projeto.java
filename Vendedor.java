@@ -1,6 +1,6 @@
 package ProjetoJava.Daniel;
 
-public class Fucionario {
+public class Vendedor {
 
     private int codigo;
     private String nome;
